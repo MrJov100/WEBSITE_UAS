@@ -46,7 +46,7 @@ Langkah - langkah:
     kategori_acara VARCHAR(50),
     riwayat_kesehatan TEXT,
     foto_url VARCHAR(255)
-);
+   );
 
 
 
